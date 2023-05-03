@@ -5,3 +5,5 @@ def pizza():
     print('yeeee')
     print('boiii')
     print('poop')
+
+pizza()
